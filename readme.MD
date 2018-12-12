@@ -3,7 +3,7 @@ Static Comp 2 at Turing
 Static Comp 2 Challenge wast to create a responsive card page using Flexbox. I choose make a Travel website.
 We were to create a similar layout. The requirements are as follows:
 
-[test example]:(https://github.com/KStockton/mks-comp-challenge-1/blob/master/images/Screen%20Shot%202018-12-12%20at%202.20.15%20AM.png)
+<img width="576" alt="example" src="https://user-images.githubusercontent.com/34406483/49878670-5fb78180-fde5-11e8-9210-5c4be24ca78b.png">
 
 Base Requirements
 Basic static site setup with index.html and styles.css
